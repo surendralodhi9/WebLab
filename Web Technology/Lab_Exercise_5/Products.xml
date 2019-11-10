@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/xsl "href="Rule.xsl" ?> 
+<electronicshop>
+  <product category="Laptop">
+    <name lang="en">Dell I5</name>
+    <model>inspiron 3481</model>
+    <series>14 3000</series>
+    <ram> 8 GB</ram>
+    <hddCapacity>1 TB</hddCapacity>
+    <price>₹45,000</price>
+  </product>
+   <product category="Laptop">
+    <name lang="en">HP I5</name>
+    <model>intel 3481</model>
+    <series>14 3000</series>
+    <ram> 4 GB</ram>
+    <hddCapacity>1 TB</hddCapacity>
+    <price>₹25,000</price>
+  </product>
+   <product category="Laptop">
+    <name lang="en">Dell I5</name>
+    <model>inspiron 3481</model>
+    <series>14 3000</series>
+    <ram> 4 GB</ram>
+    <hddCapacity>1 TB</hddCapacity>
+    <price>₹25,000</price>
+  </product>
+   <product category="Laptop">
+    <name lang="en">Lenovo</name>
+    <model>inspiron 3481</model>
+    <series>14 3000</series>
+    <ram> 4 GB</ram>
+    <hddCapacity>1 TB</hddCapacity>
+    <price>₹25,000</price>
+  </product>
+  
+  <product category="Mobile">
+    <name lang="en">Samsung Galaxy A20s </name>
+    <memory>4 GB RAM | 64 GB ROM | Expandable Upto 512 GB</memory>
+    <display>16.51 cm (6.5 inch) HD+ Display</display>
+    <camera>13MP + 8MP + 5MP | 8MP Front Camera</camera>
+    <battery>4000 mAh Lithium Ion Battery</battery>
+    <processor>Qualcomm SDM450-B01 </processor>
+    <price>₹13,850</price>
+  </product>
+  <product category="Mobile">
+    <name lang="en">Samsung Galaxy A50s </name>
+    <memory>4 GB RAM | 64 GB ROM | Expandable Upto 512 GB</memory>
+    <display>16.51 cm (6.5 inch) HD+ Display</display>
+    <camera>48MP + 8MP + 5MP | 32MP Front Camera</camera>
+    <battery>4000 mAh Lithium Ion Battery</battery>
+    <processor>Exynos 9611 - Octa-Core Processor</processor>
+    <price>₹22,000</price>
+  </product>
+  <product category="Mobile">
+    <name lang="en">Samsung Galaxy A20s </name>
+    <memory>4 GB RAM | 64 GB ROM | Expandable Upto 512 GB</memory>
+    <display>16.51 cm (6.5 inch) HD+ Display</display>
+    <camera>13MP + 8MP + 5MP | 8MP Front Camera</camera>
+    <battery>4000 mAh Lithium Ion Battery</battery>
+    <processor>Qualcomm SDM450-B01 </processor>
+    <price>₹13,850</price>
+  </product>
+
+</electronicshop>
